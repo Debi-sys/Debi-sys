@@ -1,6 +1,5 @@
-- 🔭 I’m currently working on Copper wiring   
-- 🌱 I’m currently learning JS 
-- 💬 Ask me about ornithology or neoluddism
+- 🔭 I’m currently working on Goonstation bugs
+- 💬 Ask me about ornithology or astronomy
 - 📫 How to reach me: On discord, golferjoe#2657
 - 😄 Pronouns: he/him
 
